@@ -1,0 +1,18 @@
+.main-header {
+    background: #fff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 25px;
+    border-bottom: 3px solid rgba(221, 221, 221, 0.575);
+}
+
+.main-header span {
+    font-weight: bold;
+    font-size: 20px;
+    padding-left: 50px;
+}
+
+.main-header small {
+    padding-right: 25px;
+}
